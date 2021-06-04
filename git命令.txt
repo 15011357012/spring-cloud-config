@@ -1,0 +1,5 @@
+git init - 初始化仓库。
+git add . - 添加文件到暂存区。
+git commit - 将暂存区内容添加到仓库中。
+
+https://www.runoob.com/git/git-basic-operations.html
